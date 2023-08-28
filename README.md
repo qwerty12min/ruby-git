@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
