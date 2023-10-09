@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
