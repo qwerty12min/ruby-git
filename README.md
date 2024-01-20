@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Clarify triton server boolean value (#8532)
