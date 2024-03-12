@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Replace onnx2tf usage from CLI to Python (#8429)
