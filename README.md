@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Update CI.md with CI links (#8786)
