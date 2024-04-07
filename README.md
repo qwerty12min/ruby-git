@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Add CoreML Docs Integrations Page (#8063)
