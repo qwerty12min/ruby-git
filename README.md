@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Merge pull request #22 from SkalskiP/patch-1
