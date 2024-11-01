@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Optimize function calls to method calls (#8507)
